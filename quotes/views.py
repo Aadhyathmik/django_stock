@@ -1,4 +1,5 @@
-from django.shortcuts import render, redirect
+#Hi there
+
 from .models import Stock
 from .forms import StockForm
 from django.contrib import messages
